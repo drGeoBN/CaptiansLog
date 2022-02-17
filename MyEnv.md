@@ -1,14 +1,3 @@
-Namn: taskwarrior
-Länk: https://taskwarrior.org/
-Kostnader: 0 kr
-Beskrivning: Jag använder taskwarrior och taskwarrior-cli i terminalen för att hålla kolla mina dagliga tasks. Det hjälper mig mitt arbete att få saker gjorda. Andra program som finns är grafiska och går inte att köra i terminalen, för mig går det absolut snabbast att använda taskwarrior.
-
-
-Mall:
-Namn på produkten (inklusive artikelnummer om det är en produkt för beställningsportalen)
-Länk(ar) till information om produkten
-Kostnad eller löpande utgifter för produkten (Programvara / System / Utrustning / Licenser)?
-Beskriv varför behovet uppstått och hur produkten är tänkt att användas och vad den underlättar i jämförelse med befintliga lösningar (om sådana finns).
 Namn: 		Alacritty
 Länk(ar):	https://alacritty.org/ 
 Kostnader: 	0 kr
